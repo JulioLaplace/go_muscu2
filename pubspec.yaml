@@ -36,6 +36,42 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
 
+  # Providers
+  provider: ^6.1.1
+
+  # Google Fonts
+  google_fonts: ^6.1.0
+
+  # Firebase
+  cloud_firestore: ^4.15.4
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.4
+
+  # Google Sign In
+  google_sign_in: ^6.2.1
+
+  # Apple Sign In
+  # sign_in_with_apple: ^5.0.0
+
+  # Loading Animation
+  loading_animation_widget: ^1.2.0+4
+
+  # Bottom Navigation Bar
+  bottom_bar_with_sheet: ^2.4.0
+
+  # bottom sheet
+  expandable_bottom_sheet: ^1.1.1+1
+
+  # dial for floating action buttons 
+  flutter_speed_dial: ^7.0.0
+
+  # calendar
+  table_calendar: ^3.1.0
+  intl: ^0.19.0
+  dropdown_button2: ^2.3.9
+  flutter_slidable: ^3.1.0
+  shared_preferences: ^2.2.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

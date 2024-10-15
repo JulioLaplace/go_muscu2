@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "686796547489",
+    "project_id": "go-muscu-531ea",
+    "storage_bucket": "go-muscu-531ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686796547489:android:0f264426cdf483ceadd7e0",
+        "android_client_info": {
+          "package_name": "com.example.go_muscu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686796547489-u5dnsutoekpf7o6dj6dgoqpt8utp7up4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5BSZCG_jE656375K_rPE0kY5CsLXB7SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686796547489-u5dnsutoekpf7o6dj6dgoqpt8utp7up4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686796547489-ohrai8m31enloet3ju8asnq62tvtvubk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goMuscu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686796547489:android:0cb768dba3b38253add7e0",
+        "android_client_info": {
+          "package_name": "com.example.go_muscu2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686796547489-u5dnsutoekpf7o6dj6dgoqpt8utp7up4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5BSZCG_jE656375K_rPE0kY5CsLXB7SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686796547489-u5dnsutoekpf7o6dj6dgoqpt8utp7up4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686796547489-ohrai8m31enloet3ju8asnq62tvtvubk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goMuscu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
